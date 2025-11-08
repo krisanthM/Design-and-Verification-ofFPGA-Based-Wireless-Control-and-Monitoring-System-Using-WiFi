@@ -63,7 +63,7 @@ See the `LICENSE` file for more details.
 ## 📬 Contact
 
 For questions, feedback, or collaboration opportunities, feel free to reach out:
-📧 **[your-email@example.com](mailto:your-email@example.com)** 🌟
+📧 krisanthm.vlsi2024@citchennai.net 🌟
 
 ---
 
